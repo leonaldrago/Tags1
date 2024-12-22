@@ -1,1 +1,3 @@
 Another-file 
+
+Some changes were made in the another-file.txt
